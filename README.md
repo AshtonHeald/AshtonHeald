@@ -1,4 +1,4 @@
-## Hello, I'm Ashton 👋👨‍💻
+## Hey, I'm Ash 👋👨‍💻
 # I'm a Developer, Writer, & Thinker!
 
 - 🔭 I’m currently working on [my personal blog](https://ash.cafe)!
