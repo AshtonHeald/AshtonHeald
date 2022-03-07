@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello, I'm Ashton 👋👨‍💻
+# I'm a Developer, Writer, & Thinker!
 
-<!--
-**AshtonHeald/AshtonHeald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [my personal blog](https://ash.cafe)!
+- 🌱 I’m currently learning JS, React, & NextJS.
+- 💬 Feel free to ask me about anything!
+- 👽 Pronouns: he/him
+- 📚 Fun fact: I'm passionate about knowledge.
 
-Here are some ideas to get you started:
+🏡 [Website][website] **|** 
+🐦 [Twitter][twitter] **|** 
+💻 [CodePen][codepen] **|** 
+👔 [Linkedin][linkedin] **|**
+📝 [Notion Template][notion]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://ashtonheald.com
+[twitter]: https://twitter.ashtonheald.com
+[codepen]: https://codepen.io/AshtonHeald
+[linkedin]: https://www.linkedin.com/in/ashtonheald/
+[notion]: https://ashtonheald.notion.site/Le-tableau-de-bord-ce81221703a9487c9d1c47455213919e
