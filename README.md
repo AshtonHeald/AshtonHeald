@@ -13,7 +13,7 @@
 👔 [Linkedin][linkedin] **|**
 📝 [Notion Template][notion]
 
-[website]: https://ashtonheald.com
+[website]: https://ashtonheald.me
 [twitter]: https://twitter.ashtonheald.com
 [codepen]: https://codepen.io/AshtonHeald
 [linkedin]: https://www.linkedin.com/in/ashtonheald/
