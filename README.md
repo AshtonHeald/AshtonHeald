@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JS, React, & NextJS.
 - 💬 Feel free to ask me about anything!
 - 👽 Pronouns: he/him
-- 📚 Fun fact: I'm passionate about knowledge.
+- 📚 Fun fact: I'm passionate about knowledge and wisdom.
 
 🏡 [Website][website] **|** 
 🐦 [Twitter][twitter] **|** 
