@@ -7,13 +7,13 @@
 - 🧙‍♂️ Pronouns: he/him
 - 📚 Fun fact: I'm passionate about knowledge.
 
-🏡 [Website][website] **|** 
+🏡 [Portfolio][portfolio] **|** 
 🐦 [Twitter][twitter] **|** 
 💻 [CodePen][codepen] **|** 
 👔 [Linkedin][linkedin] **|**
 📝 [Notion Template][notion]
 
-[website]: https://ashtonheald.me
+[portfolio]: https://ashthe.dev
 [twitter]: https://twitter.ashtonheald.com
 [codepen]: https://codepen.io/AshtonHeald
 [linkedin]: https://www.linkedin.com/in/ashtonheald/
