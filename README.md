@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [my personal blog](https://ash.cafe)!
 - 🌱 I’m currently learning JS, React, & NextJS.
 - 💬 Feel free to ask me about anything!
-- 👽 Pronouns: he/him
+- 🧙‍♂️ Pronouns: he/him
 - 📚 Fun fact: I'm passionate about knowledge.
 
 🏡 [Website][website] **|** 
