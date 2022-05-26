@@ -1,8 +1,8 @@
 ## Hey, I'm Ash 👋👨‍💻
 # I'm a Developer, Writer, & Thinker!
 
-- 🔭 I’m currently working on [my personal blog](https://ash.cafe)!
-- 🌱 I’m currently learning JS, React, & NextJS.
+- 🔭 I’m currently working on [my digital garden](https://ash.cafe)!
+- 🌱 I’m currently learning React.
 - 💬 Feel free to ask me about anything!
 - 🧙‍♂️ Pronouns: he/him
 - 📚 Fun fact: I'm passionate about knowledge.
