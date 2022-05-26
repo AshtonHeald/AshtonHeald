@@ -11,7 +11,7 @@
 💻 [CodePen][codepen] **|** 
 👔 [Linkedin][linkedin] **|** 
 🐦 [Twitter][twitter] **|** 
-📝 [Notion Template][notion] 
+📝 [Notion][notion] 
 
 [portfolio]: https://ashthe.dev
 [codepen]: https://codepen.io/AshtonHeald
