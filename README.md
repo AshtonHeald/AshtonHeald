@@ -17,4 +17,4 @@
 [twitter]: https://twitter.ashtonheald.com
 [codepen]: https://codepen.io/AshtonHeald
 [linkedin]: https://www.linkedin.com/in/ashtonheald/
-[notion]: https://ashtonheald.notion.site/Le-tableau-de-bord-ce81221703a9487c9d1c47455213919e
+[notion]: https://ashtonheald.notion.site/TEMPLATES-71a28e1c925b4eaab4a24937310cdf46
