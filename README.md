@@ -7,8 +7,8 @@
 - 🧙‍♂️ Pronouns: he/him
 - 📚 Fun fact: I'm passionate about knowledge.
 
-**|** 🏡 [Website][website] **|**
+**|** 🏡 [Portfolio][website] **|**
 📝 [Notion Templates][notion] **|**
 
-[website]: https://ashtonheald.me
+[website]: https://ashthe.dev
 [notion]: https://ashtonheald.notion.site/TEMPLATES-71a28e1c925b4eaab4a24937310cdf46
