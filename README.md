@@ -2,7 +2,7 @@
 # I'm a Developer, Writer, & Thinker!
 
 - 🔭 I’m currently working on my [digital garden](https://ash.cafe)!
-- 🌱 I’m currently learning JavaScript, and then React.
+- 🌱 I’m currently learning JavaScript > React > NextJS.
 - 💬 Feel free to ask me about anything!
 - 🧙‍♂️ Pronouns: he/him
 - 📚 Fun fact: I'm passionate about knowledge.
