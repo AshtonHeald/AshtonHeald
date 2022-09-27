@@ -1,7 +1,7 @@
 ## Hey, I'm Ash 👋👨‍💻
 # I'm a Developer, Writer, & Thinker!
 
-- 🔭 I’m currently working on my [Personal Projects](https://ashthe.dev/#projects)!
+- 🔭 I’m currently working on [personal projects](https://ashthe.dev/#projects)!
 - 🌱 I’m currently learning JavaScript and then React.
 - 💬 Feel free to ask me about anything!
 - 🧙‍♂️ Pronouns: he/him
