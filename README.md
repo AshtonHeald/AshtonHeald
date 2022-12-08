@@ -1,6 +1,6 @@
 ![Logo](https://res.cloudinary.com/practicaldev/image/fetch/s--u6Zli8G6--/c_fill,f_auto,fl_progressive,h_320,q_66,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/263644/98ae5a75-4a83-467f-acde-58140703188c.gif)
 
-### Hi, I'm Ash! 👋👨‍💻
+### Hey, I'm Ash! 👋👨‍💻
 ## I'm a Front-End Developer,
 specialized in `web technologies`, specifically the `javascript ecosystem`
 
