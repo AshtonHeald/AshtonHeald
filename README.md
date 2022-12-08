@@ -1,5 +1,5 @@
 ## Hey, I'm Ash 👋👨‍💻
-# I'm a Front-End Web Developer
+# I'm a Front-End Developer & Writer
 
 - 🔭 I’m currently working on [personal projects](https://ashthe.dev/#projects)!
 - 🌱 I’m currently learning JavaScript and then React.
