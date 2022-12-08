@@ -1,5 +1,6 @@
-### Hey, I'm Ash! 👋👨‍💻
-## I'm a Front-End Developer,
+## Hey, I'm Ash! 👋👨‍💻
+
+### I'm a Front-End Developer,
 specialized in `web technologies`, specifically the `javascript ecosystem`.
 
 - 🌱 I'm currently working on projects, big and small
