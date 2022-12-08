@@ -1,14 +1,24 @@
-## Hey, I'm Ash 👋👨‍💻
-# I'm a Front-End Developer
+![Logo](https://res.cloudinary.com/practicaldev/image/fetch/s--u6Zli8G6--/c_fill,f_auto,fl_progressive,h_320,q_66,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/263644/98ae5a75-4a83-467f-acde-58140703188c.gif)
 
-- 🔭 I’m currently working on [personal projects](https://ashthe.dev/#projects)!
-- 🌱 I’m currently learning JavaScript and then React.
+### Hi, I'm Ash! 👋👨‍💻
+## I'm a Front-End Developer,
+specialized in `web technologies`, specifically the `javascript ecosystem`
+
+- 🌱 I'm currently working on projects, big and small.
+- 🧠 I'm currently learning React JS.
+- 🆘 I'm seeking help w/ breaking into the industry!
 - 💬 Feel free to ask me about anything!
-- 🧙‍♂️ Pronouns: he/him
-- 📚 Fun fact: I'm passionate about knowledge & organization.
+- 📫 You can reach me at ashthedev@pm.me
 
-**|** 🏡 [Portfolio][website] **|**
-📝 [Notion Templates][notion] **|**
 
+**|** 💼 [Portfolio][website] **|**
+🎨 [Codepen][code] **|**
+✍️ [Technical Blog][blog] **|**
+👔 [LinkedIn][link] **|**
+🐘 [Mastodon][mast] **|**
+
+[blog]: https://blog.ashthe.dev
+[code]: https://codepen.io/ashthedev
+[link]: https://www.linkedin.com/in/ashtonheald/
+[mast]: https://uiuxdev.social/@ashthedev
 [website]: https://ashthe.dev
-[notion]: https://ashtonheald.notion.site/TEMPLATES-71a28e1c925b4eaab4a24937310cdf46
