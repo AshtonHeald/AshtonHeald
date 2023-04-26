@@ -13,10 +13,8 @@ specialized in `web technologies`, specifically the `Javascript ecosystem`.
 🎨 [Codepen][code] **|**
 ✍️ [Technical Blog][blog] **|**
 👔 [LinkedIn][link] **|**
-🐘 [Mastodon][mast] **|**
 
 [blog]: https://blog.ashthe.dev
 [code]: https://codepen.io/ashthedev
 [link]: https://www.linkedin.com/in/ashtonheald/
-[mast]: https://uiuxdev.social/@ashthedev
 [website]: https://ashthe.dev
