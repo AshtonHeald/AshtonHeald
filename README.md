@@ -6,7 +6,7 @@ specialized in `web technologies`, specifically the `Javascript ecosystem`.
 - 📚 I'm currently learning React JS
 - 🆘 I'm seeking help w/ breaking into the industry
 - 💬 Feel free to ask me about anything
-- 📫 You can reach me at ashthedev@pm.me
+- 📫 You can reach me at ashtonheald@pm.me
 
 
 **|** 💼 [Portfolio][website] **|**
