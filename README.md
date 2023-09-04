@@ -3,8 +3,7 @@
 specialized in `Front-end Development` and `Web Technologies`.
 
 - 🌱 I'm currently working on projects big and small
-- 📚 I'm currently learning React JS
-- 🆘 I'm seeking help w/ breaking into the industry
+- 📚 Always learning new things
 - 💬 Feel free to ask me about anything
 - 📫 You can reach me at ashtonheald@pm.me
 
