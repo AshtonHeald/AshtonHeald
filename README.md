@@ -4,8 +4,6 @@ specialized in `Front-end Development` and `Web Technologies`.
 
 - 🌱 I'm currently working on projects big and small
 - 📚 Always learning new things
-- 💬 Feel free to ask me about anything
-- Lorem Ipsum
 - 📫 You can reach me at ashtonheald@pm.me
 
 **|** 💼 [Portfolio][website] **|**
