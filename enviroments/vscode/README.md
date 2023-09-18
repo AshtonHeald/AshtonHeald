@@ -1,1 +1,1 @@
-## VSCode Enviroment
+## VS Code Enviroment
