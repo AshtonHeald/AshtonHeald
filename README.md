@@ -20,6 +20,7 @@ specialized in `Front-end Development` and `Web Technologies`.
 
 <!-- ========================= Tech ========================= -->
 ### 💻 Tech:
+<!-- https://devicon.dev/ -->
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" />
