@@ -5,12 +5,12 @@ specialized in `Front-end Development` and `Web Technologies`.
 <!-- ========================= Social ========================= -->
 ### 💬 Connect:
 <div>
-  <a><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="30"></a>
-  <a><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
-  <a><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="30"></a>
-  <a><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30"></a>
-  <a><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="30"></a>
-  <a><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="30"></a>
+  <a href="https://twitter.com/AshtonHeald"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="30"></a>
+  <a href="https://www.linkedin.com/in/ashtonheald"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
+  <a href="https://blog.ashthe.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30"></a>
+  <a href="https://dev.to/ashthedev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="30"></a>
+  <a href="https://codepen.io/ashthedev"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="30"></a>
+  <a href="https://leetcode.com/AshTheDev/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="30"></a>
 </div>
 
 <!--
@@ -101,8 +101,8 @@ Multiple: &exclude_days=Sun%2CSat
 
 <div>
   
+<a href="https://www.buymeacoffee.com/ashtonheald"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=ashtonheald&color=ff69b4&style=flat-square&abbreviated=true)
-![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)
 
 </div>
 
