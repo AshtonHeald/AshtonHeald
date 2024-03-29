@@ -86,12 +86,12 @@ https://git.io/streak-stats
 https://github.com/anuraghazra/github-readme-stats
 -->
 <div>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshtonHeald&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180">
+<img class="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AshtonHeald&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180">
 <!--
 Single: &exclude_days=Sun
 Multiple: &exclude_days=Sun%2CSat 
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshtonHeald&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180">
+<img class="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshtonHeald&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180">
 <!--
 &langs_count=20
 -->
