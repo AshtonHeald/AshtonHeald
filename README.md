@@ -4,7 +4,7 @@ specialized in `Front-end Development` and `Web Technologies`.
 
 <!-- ========================= Social ========================= -->
 ### 💬 Connect:
-<div>
+<div id="connect">
   <a href="https://twitter.com/AshtonHeald"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="30"></a>
   <a href="https://www.linkedin.com/in/ashtonheald"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
   <a href="https://blog.ashthe.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30"></a>
@@ -21,7 +21,7 @@ specialized in `Front-end Development` and `Web Technologies`.
 <!-- ========================= Tech ========================= -->
 ### 💻 Tech:
 <!-- https://devicon.dev/ -->
-<div>
+<div id="tech">
 <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="36" />
 <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="36" />
 <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="36" />
@@ -85,7 +85,7 @@ specialized in `Front-end Development` and `Web Technologies`.
 https://git.io/streak-stats
 https://github.com/anuraghazra/github-readme-stats
 -->
-<div>  
+<div id="stats">  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshtonHeald&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180">
 <!--
 Single: &exclude_days=Sun
@@ -99,7 +99,7 @@ Multiple: &exclude_days=Sun%2CSat
 
 ---
 
-<div>
+<div id="support">
   
 <a href="https://www.buymeacoffee.com/ashtonheald"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=ashtonheald&color=ff69b4&style=flat-square&abbreviated=true)
