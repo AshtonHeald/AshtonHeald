@@ -79,18 +79,20 @@ specialized in `Front-end Development` and `Web Technologies`.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" />
 -->
 
-<!-- ========================= Stats ========================= 
+<!-- ========================= Stats ========================= -->
 ### 📊 GitHub Stats:
 <!-- 
 https://git.io/streak-stats
 https://github.com/anuraghazra/github-readme-stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshtonHeald&theme=dracula&hide_border=true&card_width=195&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+-->
 <div class="stats">  
-<img class="stat" src="https://github-readme-streak-stats.herokuapp.com/?user=AshtonHeald&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180">
+<img class="stat" src="https://github-readme-streak-stats.herokuapp.com/?user=AshtonHeald&theme=dracula&hide_border=true&card_width=180&hide_current_streak=true&hide_longest_streak=true&include_all_commits=true&count_private=true" height="180">
 <!--
 Single: &exclude_days=Sun
 Multiple: &exclude_days=Sun%2CSat 
-
+-->
 <img class="stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshtonHeald&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180">
 <!--
 &langs_count=20
