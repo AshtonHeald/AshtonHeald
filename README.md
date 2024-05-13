@@ -79,24 +79,25 @@ specialized in `Front-end Development` and `Web Technologies`.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" />
 -->
 
-<!-- ========================= Stats ========================= -->
+<!-- ========================= Stats ========================= 
 ### 📊 GitHub Stats:
 <!-- 
 https://git.io/streak-stats
 https://github.com/anuraghazra/github-readme-stats
--->
+
 <div class="stats">  
 <img class="stat" src="https://github-readme-streak-stats.herokuapp.com/?user=AshtonHeald&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180">
 <!--
 Single: &exclude_days=Sun
 Multiple: &exclude_days=Sun%2CSat 
--->
+
 <img class="stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshtonHeald&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180">
 <!--
 &langs_count=20
 -->
 </div>
 
+<!--
 ---
 
 <div class="support">
@@ -104,4 +105,5 @@ Multiple: &exclude_days=Sun%2CSat
 <a href="https://www.buymeacoffee.com/ashtonheald"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=ashtonheald&color=ff69b4&style=flat-square&abbreviated=true)
 </div>
+-->
 
