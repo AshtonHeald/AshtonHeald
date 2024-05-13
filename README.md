@@ -2,7 +2,7 @@
 ### 👨‍💻 I'm a Software Developer,
 specialized in `Front-end Development` and `Web Technologies`.
 
-<!-- ========================= Social ========================= -->
+<!-- ========================= Social ========================= -
 ### 💬 Connect:
 <div>
   <a href="https://twitter.com/AshtonHeald"><img class="social" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="30"></a>
@@ -12,7 +12,7 @@ specialized in `Front-end Development` and `Web Technologies`.
   <a href="https://codepen.io/ashthedev"><img class="social" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="30"></a>
   <a href="https://leetcode.com/AshTheDev/"><img class="social" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="30"></a>
 </div>
-
+-->
 <!--
 <a><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="40"></a>
 <a><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40"></a>
