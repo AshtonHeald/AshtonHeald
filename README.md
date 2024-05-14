@@ -19,7 +19,7 @@ specialized in `Front-end Development` and `Web Technologies`.
 -->
 
 <!-- ========================= Tech ========================= -->
-##### 💻 Tech:
+#### 💻 Tech:
 <!-- https://devicon.dev/ -->
 <div>
 <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="20" />
@@ -80,7 +80,7 @@ specialized in `Front-end Development` and `Web Technologies`.
 -->
 
 <!-- ========================= Stats ========================= -->
-##### 📊 Stats:
+#### 📊 Stats:
 <!-- 
 https://git.io/streak-stats
 https://github.com/anuraghazra/github-readme-stats
