@@ -1,4 +1,12 @@
 ## Hey, I'm Ash! 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&duration=3000&pause=500&color=FF79C6&vCenter=true&width=160&height=20&lines=Web+Wizard;Code+Craftsman;Javascript+Jedi" alt="Typing SVG" />
+
+
+
+
+
+
 ### 👨‍💻 I'm a Software Developer,
 specialized in `Front-end Development` and `Web Technologies`.
 
